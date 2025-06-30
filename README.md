@@ -1,5 +1,5 @@
 🎲 Random Number API
-A 100% free, unlimited, and open-source API that generates up to 5 random integers based on your own custom rules — including minimum, maximum, average, and percentage-based normal distribution.
+A 100% free, unlimited, and open-source API that generates up to 5 random integers based on your own custom rules — including minimum, maximum, average, and percentage-based normal distribution. I thing even it could be the most lightweight randome API generator.
 
 🚀 Live Demo Example
 lua
